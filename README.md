@@ -1,4 +1,4 @@
-# MATH441_Project_3
+# Gene Mapping Project
 #### Code pieces:
 - please use the `recombination_visualization.ipynb` to generate the plot for gene locations on chromosomes.
 - please use `plots.ipynb` to generate the contour plot and convexity map for convexity analysis.
