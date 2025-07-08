@@ -9,4 +9,7 @@
 Here is an ongoing list of functions used for this project:
 ##### in `functions.py`:
 - `calculate_recombination_frequency` calculates the frequency of recombination happening in the chromosomes
+- `compute_recombination_matrix` computes the recombination distance matrix
+- `group_loci_by_linkage` creates a distance submatrix for every grouping of genes
+- 
     
