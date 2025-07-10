@@ -1,5 +1,8 @@
 # Gene Mapping Project
-#### Code pieces:
+#### Summary:
+This repository tests a framework which aims to crudely map genes with large scale offpsring data. Recombination rates are used to infer pairwise distances, and the mapping is framed as an optimization problem which returns all possible indices for each gene of interest such that absolute error is minimized.
+
+#### Codepieces:
 - please use the `recombination_visualization.ipynb` to generate the plot for gene locations on chromosomes.
 - please use `plots.ipynb` to generate the contour plot and convexity map for convexity analysis.
 - the `experiment.ipynb` is intended for the author’s exploratory analysis and idea testing. Some analyses found in this notebook are not included in the report due to length constraints.
